@@ -14,3 +14,10 @@ real  0m0.605s
 user  0m0.226s
 sys   0m0.599s
 ```
+
+## DAY 2
+```
+real  0m0.529s
+user  0m0.237s
+sys   0m0.418s
+```
