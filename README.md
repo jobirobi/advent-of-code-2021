@@ -37,7 +37,11 @@ sys   0m0.405s
 ```
 
 ## DAY 5
-I ran my first marathon this day so cut me some slack, and I'll get to it later
+```
+real  0m0.674s
+user  0m0.306s
+sys   0m0.447s
+```
 
 ## DAY 6
 ```
