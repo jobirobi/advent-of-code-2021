@@ -80,3 +80,13 @@ real  0m0.500s
 user  0m0.233s
 sys   0m0.403s
 ```
+
+## DAY 12
+I'll come back to it
+
+## DAY 13
+```
+real  0m0.514s
+user  0m0.231s
+sys   0m0.458s
+```
