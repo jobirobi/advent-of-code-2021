@@ -65,7 +65,11 @@ sys   0m0.432s
 ```
 
 ## DAY 9
-I'll come back to it
+```
+real  0m0.515s
+user  0m0.235s
+sys   0m0.416s
+```
 
 ## DAY 10
 ```
