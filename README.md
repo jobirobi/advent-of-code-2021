@@ -82,7 +82,11 @@ sys   0m0.403s
 ```
 
 ## DAY 12
-I'll come back to it
+```
+real  0m0.713s
+user  0m0.425s
+sys   0m0.431s
+```
 
 ## DAY 13
 ```
